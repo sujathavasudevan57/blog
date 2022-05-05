@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sujathavasudevan.au",
+    "description": "",
+    "home_page_url": "https://sujathavasudevan.au",
+    "feed_url": "https://sujathavasudevan.au/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sujatha Vasudevan"
+    },
+    "items": [
+        {
+            "id": "https://sujathavasudevan.au/initial-post.html",
+            "url": "https://sujathavasudevan.au/initial-post.html",
+            "title": "Initial post",
+            "summary": "Initial post",
+            "content_html": "<p>Initial post</p>",
+            "author": {
+                "name": "Sujatha Vasudevan"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-05T14:38:40+10:00",
+            "date_modified": "2022-05-05T14:38:40+10:00"
+        }
+    ]
+}

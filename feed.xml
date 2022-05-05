@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sujathavasudevan.au</title>
+    <link href="https://sujathavasudevan.au/feed.xml" rel="self" />
+    <link href="https://sujathavasudevan.au" />
+    <updated>2022-05-05T14:38:40+10:00</updated>
+    <author>
+        <name>Sujatha Vasudevan</name>
+    </author>
+    <id>https://sujathavasudevan.au</id>
+
+    <entry>
+        <title>Initial post</title>
+        <author>
+            <name>Sujatha Vasudevan</name>
+        </author>
+        <link href="https://sujathavasudevan.au/initial-post.html"/>
+        <id>https://sujathavasudevan.au/initial-post.html</id>
+
+        <updated>2022-05-05T14:38:40+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Initial post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Initial post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
